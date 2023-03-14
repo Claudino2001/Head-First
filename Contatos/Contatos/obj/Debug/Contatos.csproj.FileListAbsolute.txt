@@ -1,0 +1,13 @@
+C:\Users\gacla\Documents\C#\Head-First\Contatos\Contatos\bin\Debug\Contatos.exe.config
+C:\Users\gacla\Documents\C#\Head-First\Contatos\Contatos\bin\Debug\Contatos.exe
+C:\Users\gacla\Documents\C#\Head-First\Contatos\Contatos\bin\Debug\Contatos.pdb
+C:\Users\gacla\Documents\C#\Head-First\Contatos\Contatos\obj\Debug\Contatos.csproj.AssemblyReference.cache
+C:\Users\gacla\Documents\C#\Head-First\Contatos\Contatos\obj\Debug\Contatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\gacla\Documents\C#\Head-First\Contatos\Contatos\obj\Debug\Contatos.Form1.resources
+C:\Users\gacla\Documents\C#\Head-First\Contatos\Contatos\obj\Debug\Contatos.Properties.Resources.resources
+C:\Users\gacla\Documents\C#\Head-First\Contatos\Contatos\obj\Debug\Contatos.csproj.GenerateResource.cache
+C:\Users\gacla\Documents\C#\Head-First\Contatos\Contatos\obj\Debug\Contatos.csproj.CoreCompileInputs.cache
+C:\Users\gacla\Documents\C#\Head-First\Contatos\Contatos\obj\Debug\Contatos.exe
+C:\Users\gacla\Documents\C#\Head-First\Contatos\Contatos\obj\Debug\Contatos.pdb
+C:\Users\gacla\Documents\C#\Head-First\Contatos\Contatos\bin\Debug\ContactDB.mdf
+C:\Users\gacla\Documents\C#\Head-First\Contatos\Contatos\bin\Debug\ContactDB_log.ldf
