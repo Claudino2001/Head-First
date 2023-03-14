@@ -11,3 +11,7 @@ C:\Users\gacla\Documents\C#\Head-First\Contatos\Contatos\obj\Debug\Contatos.exe
 C:\Users\gacla\Documents\C#\Head-First\Contatos\Contatos\obj\Debug\Contatos.pdb
 C:\Users\gacla\Documents\C#\Head-First\Contatos\Contatos\bin\Debug\ContactDB.mdf
 C:\Users\gacla\Documents\C#\Head-First\Contatos\Contatos\bin\Debug\ContactDB_log.ldf
+C:\Users\gacla\Documents\C#\Head-First\Contatos\Contatos\bin\Debug\Contatos.exe.manifest
+C:\Users\gacla\Documents\C#\Head-First\Contatos\Contatos\bin\Debug\Contatos.application
+C:\Users\gacla\Documents\C#\Head-First\Contatos\Contatos\obj\Debug\Contatos.exe.manifest
+C:\Users\gacla\Documents\C#\Head-First\Contatos\Contatos\obj\Debug\Contatos.application
