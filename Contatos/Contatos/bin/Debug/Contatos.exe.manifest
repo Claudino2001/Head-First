@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="Contatos.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="Contatos.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
     <assemblyIdentity name="Contatos" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -49,7 +49,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>PlnFuRDO6ETO0r397Mex1kHs6dctDlnozZ7oEyU7PFA=</dsig:DigestValue>
+        <dsig:DigestValue>knLz56ilMo+FuL/Zs5i7ifFK7DOxOD/RD/KtbZ06/kM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -59,7 +59,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>GUHZuyeDt7NuTMnvq0+Kve8AjiZhUM9lZMX2iyO2kVc=</dsig:DigestValue>
+      <dsig:DigestValue>dFbg2yYn72bFE0bLBTDgYkEja3KEl1mJO/VCefNX3kE=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ContactDB_log.ldf" size="8388608" writeableType="applicationData">
@@ -68,7 +68,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>H/mOHkUdAFSsOJwCeBzaMV4MSGBC64Jk6rP1yaPdbwk=</dsig:DigestValue>
+      <dsig:DigestValue>BXAi5H2/p6eTeYtT/6uvdo0aVHsefRcNfj30LXrBoyw=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Contatos.exe.config" size="551">

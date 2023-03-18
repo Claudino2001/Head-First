@@ -1,0 +1,11 @@
+C:\Users\gacla\Documents\C#\Head-First\projDepurador\projDepurador\bin\Debug\projDepurador.exe.config
+C:\Users\gacla\Documents\C#\Head-First\projDepurador\projDepurador\bin\Debug\projDepurador.exe
+C:\Users\gacla\Documents\C#\Head-First\projDepurador\projDepurador\bin\Debug\projDepurador.pdb
+C:\Users\gacla\Documents\C#\Head-First\projDepurador\projDepurador\obj\Debug\projDepurador.csproj.AssemblyReference.cache
+C:\Users\gacla\Documents\C#\Head-First\projDepurador\projDepurador\obj\Debug\projDepurador.csproj.SuggestedBindingRedirects.cache
+C:\Users\gacla\Documents\C#\Head-First\projDepurador\projDepurador\obj\Debug\projDepurador.Form1.resources
+C:\Users\gacla\Documents\C#\Head-First\projDepurador\projDepurador\obj\Debug\projDepurador.Properties.Resources.resources
+C:\Users\gacla\Documents\C#\Head-First\projDepurador\projDepurador\obj\Debug\projDepurador.csproj.GenerateResource.cache
+C:\Users\gacla\Documents\C#\Head-First\projDepurador\projDepurador\obj\Debug\projDepurador.csproj.CoreCompileInputs.cache
+C:\Users\gacla\Documents\C#\Head-First\projDepurador\projDepurador\obj\Debug\projDepurador.exe
+C:\Users\gacla\Documents\C#\Head-First\projDepurador\projDepurador\obj\Debug\projDepurador.pdb

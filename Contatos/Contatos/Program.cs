@@ -12,7 +12,7 @@ namespace Contatos
         /// The main entry point for the application.
         /// </summary>
         [STAThread]
-        static void Main()
+        static void notMain()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
