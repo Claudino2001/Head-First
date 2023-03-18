@@ -32,6 +32,7 @@ namespace _2_FlashyThing_
                     this.BackColor = Color.FromArgb(c, 255 - c, c);
                     Application.DoEvents();
                     System.Threading.Thread.Sleep(3);
+                    //Rodandp
                 }
             }
         }
