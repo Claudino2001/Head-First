@@ -1,0 +1,16 @@
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\3 Joe and Bob\3 Joe and Bob\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\3 Joe and Bob\3 Joe and Bob\obj\Release\__JoeEBob.Form1.resources
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\3 Joe and Bob\3 Joe and Bob\obj\Release\__JoeEBob.Properties.Resources.resources
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\3 Joe and Bob\3 Joe and Bob\obj\Release\3JoeEBob.csproj.GenerateResource.Cache
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\3 Joe and Bob\3 Joe and Bob\bin\Release\3 Joe and Bob - part 1.exe
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\3 Joe and Bob\3 Joe and Bob\bin\Release\3 Joe and Bob - part 1.pdb
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\3 Joe and Bob\3 Joe and Bob\obj\Release\3 Joe and Bob - part 1.exe
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\3 Joe and Bob\3 Joe and Bob\obj\Release\3 Joe and Bob - part 1.pdb
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\----- Alterados\3 JoeEBob\3JoeEBob\bin\Release\3 JoeEBob.exe
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\----- Alterados\3 JoeEBob\3JoeEBob\bin\Release\3 JoeEBob.pdb
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\----- Alterados\3 JoeEBob\3JoeEBob\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\----- Alterados\3 JoeEBob\3JoeEBob\obj\Release\__JoeEBob.Form1.resources
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\----- Alterados\3 JoeEBob\3JoeEBob\obj\Release\__JoeEBob.Properties.Resources.resources
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\----- Alterados\3 JoeEBob\3JoeEBob\obj\Release\3JoeEBob.csproj.GenerateResource.Cache
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\----- Alterados\3 JoeEBob\3JoeEBob\obj\Release\3 JoeEBob.exe
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\----- Alterados\3 JoeEBob\3JoeEBob\obj\Release\3 JoeEBob.pdb

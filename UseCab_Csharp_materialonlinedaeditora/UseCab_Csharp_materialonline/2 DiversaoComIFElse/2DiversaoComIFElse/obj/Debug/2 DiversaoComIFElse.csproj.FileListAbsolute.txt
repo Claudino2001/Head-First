@@ -1,0 +1,8 @@
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\2 Fun with If Else\2DiversaoComIFElse\bin\Debug\2DiversaoComIFElse.exe
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\2 Fun with If Else\2DiversaoComIFElse\bin\Debug\2DiversaoComIFElse.pdb
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\2 Fun with If Else\2DiversaoComIFElse\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\2 Fun with If Else\2DiversaoComIFElse\obj\Debug\__Fun_with_If_Else.Form1.resources
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\2 Fun with If Else\2DiversaoComIFElse\obj\Debug\__DiversaoComIFElse.Properties.Resources.resources
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\2 Fun with If Else\2DiversaoComIFElse\obj\Debug\2 DiversaoComIFElse.csproj.GenerateResource.Cache
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\2 Fun with If Else\2DiversaoComIFElse\obj\Debug\2DiversaoComIFElse.exe
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\2 Fun with If Else\2DiversaoComIFElse\obj\Debug\2DiversaoComIFElse.pdb

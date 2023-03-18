@@ -1,0 +1,10 @@
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\2 FlashyThing\2CoisaPiscante\bin\Debug\2 CoisaPiscante.exe
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\2 FlashyThing\2CoisaPiscante\bin\Debug\2 CoisaPiscante.pdb
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\2 FlashyThing\2CoisaPiscante\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\2 FlashyThing\2CoisaPiscante\obj\Debug\__CoisaPiscante.Form1.resources
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\2 FlashyThing\2CoisaPiscante\obj\Debug\__CoisaPiscante.Properties.Resources.resources
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\2 FlashyThing\2CoisaPiscante\obj\Debug\2CoisaPiscante.csproj.GenerateResource.Cache
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\2 FlashyThing\2CoisaPiscante\obj\Debug\2 CoisaPiscante.exe
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\2 FlashyThing\2CoisaPiscante\obj\Debug\2 CoisaPiscante.pdb
+E:\Bayer\Código do Livro - Abra a Cabeça C#\C#\----- Alterados\2 CoisaPiscante\2CoisaPiscante\obj\Debug\2 CoisaPiscante.exe
+E:\Bayer\Código do Livro - Abra a Cabeça C#\C#\----- Alterados\2 CoisaPiscante\2CoisaPiscante\obj\Debug\2 CoisaPiscante.pdb

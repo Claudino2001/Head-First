@@ -1,0 +1,8 @@
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\5 CalculadoraDeVaca\5CalculadoraDeVaca\bin\Debug\5 Cow Calculator.exe
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\5 CalculadoraDeVaca\5CalculadoraDeVaca\bin\Debug\5 Cow Calculator.pdb
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\5 CalculadoraDeVaca\5CalculadoraDeVaca\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\5 CalculadoraDeVaca\5CalculadoraDeVaca\obj\Debug\__CalculadoraDeVaca.Form1.resources
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\5 CalculadoraDeVaca\5CalculadoraDeVaca\obj\Debug\__Cow_Calculator.Properties.Resources.resources
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\5 CalculadoraDeVaca\5CalculadoraDeVaca\obj\Debug\5CalculadoraDeVaca.csproj.GenerateResource.Cache
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\5 CalculadoraDeVaca\5CalculadoraDeVaca\obj\Debug\5 Cow Calculator.exe
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\5 CalculadoraDeVaca\5CalculadoraDeVaca\obj\Debug\5 Cow Calculator.pdb

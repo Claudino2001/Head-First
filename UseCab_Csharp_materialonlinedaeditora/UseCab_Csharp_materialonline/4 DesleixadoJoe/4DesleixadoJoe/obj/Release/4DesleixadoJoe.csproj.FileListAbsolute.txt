@@ -1,0 +1,8 @@
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\4 Sloppy Joe\4DesleixadoJoe\bin\Release\4 Sloppy Joe.exe
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\4 Sloppy Joe\4DesleixadoJoe\bin\Release\4 Sloppy Joe.pdb
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\4 Sloppy Joe\4DesleixadoJoe\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\4 Sloppy Joe\4DesleixadoJoe\obj\Release\__DesleixadoJoe.Form1.resources
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\4 Sloppy Joe\4DesleixadoJoe\obj\Release\__DesleixadoJoe.Properties.Resources.resources
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\4 Sloppy Joe\4DesleixadoJoe\obj\Release\4DesleixadoJoe.csproj.GenerateResource.Cache
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\4 Sloppy Joe\4DesleixadoJoe\obj\Release\4 Sloppy Joe.exe
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\4 Sloppy Joe\4DesleixadoJoe\obj\Release\4 Sloppy Joe.pdb

@@ -1,0 +1,8 @@
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\4 TrocaDeElefantes\4 TrocaDeElefantes\bin\Debug\4 Swapping Elephants.exe
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\4 TrocaDeElefantes\4 TrocaDeElefantes\bin\Debug\4 Swapping Elephants.pdb
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\4 TrocaDeElefantes\4 TrocaDeElefantes\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\4 TrocaDeElefantes\4 TrocaDeElefantes\obj\Debug\__TrocaDeElefantes.Form1.resources
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\4 TrocaDeElefantes\4 TrocaDeElefantes\obj\Debug\__Swapping_Elephants.Properties.Resources.resources
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\4 TrocaDeElefantes\4 TrocaDeElefantes\obj\Debug\4TrocaDeElefantes.csproj.GenerateResource.Cache
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\4 TrocaDeElefantes\4 TrocaDeElefantes\obj\Debug\4 Swapping Elephants.exe
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\4 TrocaDeElefantes\4 TrocaDeElefantes\obj\Debug\4 Swapping Elephants.pdb

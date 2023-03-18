@@ -1,0 +1,11 @@
+C:\Users\gacla\Documents\C#\Head-First\2 FlashyThing!\2 FlashyThing!\bin\Debug\2 FlashyThing!.exe.config
+C:\Users\gacla\Documents\C#\Head-First\2 FlashyThing!\2 FlashyThing!\bin\Debug\2 FlashyThing!.exe
+C:\Users\gacla\Documents\C#\Head-First\2 FlashyThing!\2 FlashyThing!\bin\Debug\2 FlashyThing!.pdb
+C:\Users\gacla\Documents\C#\Head-First\2 FlashyThing!\2 FlashyThing!\obj\Debug\2 FlashyThing!.csproj.AssemblyReference.cache
+C:\Users\gacla\Documents\C#\Head-First\2 FlashyThing!\2 FlashyThing!\obj\Debug\2 FlashyThing!.csproj.SuggestedBindingRedirects.cache
+C:\Users\gacla\Documents\C#\Head-First\2 FlashyThing!\2 FlashyThing!\obj\Debug\_2_FlashyThing_.Form1.resources
+C:\Users\gacla\Documents\C#\Head-First\2 FlashyThing!\2 FlashyThing!\obj\Debug\_2_FlashyThing_.Properties.Resources.resources
+C:\Users\gacla\Documents\C#\Head-First\2 FlashyThing!\2 FlashyThing!\obj\Debug\2 FlashyThing!.csproj.GenerateResource.cache
+C:\Users\gacla\Documents\C#\Head-First\2 FlashyThing!\2 FlashyThing!\obj\Debug\2 FlashyThing!.csproj.CoreCompileInputs.cache
+C:\Users\gacla\Documents\C#\Head-First\2 FlashyThing!\2 FlashyThing!\obj\Debug\2 FlashyThing!.exe
+C:\Users\gacla\Documents\C#\Head-First\2 FlashyThing!\2 FlashyThing!\obj\Debug\2 FlashyThing!.pdb

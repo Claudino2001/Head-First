@@ -1,0 +1,8 @@
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\----- Alterados\5 FestaDeJantar\5FestaDeJantar\bin\Debug\5 DinnerParty.exe
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\----- Alterados\5 FestaDeJantar\5FestaDeJantar\bin\Debug\5 DinnerParty.pdb
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\----- Alterados\5 FestaDeJantar\5FestaDeJantar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\----- Alterados\5 FestaDeJantar\5FestaDeJantar\obj\Debug\__FestaDeJantar.Form1.resources
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\----- Alterados\5 FestaDeJantar\5FestaDeJantar\obj\Debug\__FestaDeJantar.Properties.Resources.resources
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\----- Alterados\5 FestaDeJantar\5FestaDeJantar\obj\Debug\5FestaDeJantar.csproj.GenerateResource.Cache
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\----- Alterados\5 FestaDeJantar\5FestaDeJantar\obj\Debug\5 DinnerParty.exe
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\----- Alterados\5 FestaDeJantar\5FestaDeJantar\obj\Debug\5 DinnerParty.pdb

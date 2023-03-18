@@ -1,0 +1,8 @@
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\4 Mileage Calculator\4CalculadoraDeMilhagem\bin\Debug\4CalculadoraDeMilhagem.exe
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\4 Mileage Calculator\4CalculadoraDeMilhagem\bin\Debug\4CalculadoraDeMilhagem.pdb
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\4 Mileage Calculator\4CalculadoraDeMilhagem\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\4 Mileage Calculator\4CalculadoraDeMilhagem\obj\Debug\__CalculadoraDeMilhagem.Form1.resources
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\4 Mileage Calculator\4CalculadoraDeMilhagem\obj\Debug\__CalculadoraDeMilhagem.Properties.Resources.resources
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\4 Mileage Calculator\4CalculadoraDeMilhagem\obj\Debug\4CalculadoraDeMilhagem.csproj.GenerateResource.Cache
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\4 Mileage Calculator\4CalculadoraDeMilhagem\obj\Debug\4CalculadoraDeMilhagem.exe
+C:\Documents and Settings\ezxxt\Desktop\Código do Livro - Abra a Cabeça C#\C#\4 Mileage Calculator\4CalculadoraDeMilhagem\obj\Debug\4CalculadoraDeMilhagem.pdb
