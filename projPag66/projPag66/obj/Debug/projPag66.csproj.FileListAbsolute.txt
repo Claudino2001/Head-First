@@ -1,0 +1,11 @@
+C:\Users\gacla\Documents\C#\Head-First\projPag66\projPag66\bin\Debug\projPag66.exe.config
+C:\Users\gacla\Documents\C#\Head-First\projPag66\projPag66\bin\Debug\projPag66.exe
+C:\Users\gacla\Documents\C#\Head-First\projPag66\projPag66\bin\Debug\projPag66.pdb
+C:\Users\gacla\Documents\C#\Head-First\projPag66\projPag66\obj\Debug\projPag66.csproj.AssemblyReference.cache
+C:\Users\gacla\Documents\C#\Head-First\projPag66\projPag66\obj\Debug\projPag66.csproj.SuggestedBindingRedirects.cache
+C:\Users\gacla\Documents\C#\Head-First\projPag66\projPag66\obj\Debug\projPag66.Form1.resources
+C:\Users\gacla\Documents\C#\Head-First\projPag66\projPag66\obj\Debug\projPag66.Properties.Resources.resources
+C:\Users\gacla\Documents\C#\Head-First\projPag66\projPag66\obj\Debug\projPag66.csproj.GenerateResource.cache
+C:\Users\gacla\Documents\C#\Head-First\projPag66\projPag66\obj\Debug\projPag66.csproj.CoreCompileInputs.cache
+C:\Users\gacla\Documents\C#\Head-First\projPag66\projPag66\obj\Debug\projPag66.exe
+C:\Users\gacla\Documents\C#\Head-First\projPag66\projPag66\obj\Debug\projPag66.pdb
