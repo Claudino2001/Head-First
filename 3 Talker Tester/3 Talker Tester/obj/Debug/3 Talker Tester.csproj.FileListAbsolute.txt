@@ -1,0 +1,11 @@
+C:\Users\gacla\Documents\C#\Head-First\3 Talker Tester\3 Talker Tester\bin\Debug\3 Talker Tester.exe.config
+C:\Users\gacla\Documents\C#\Head-First\3 Talker Tester\3 Talker Tester\bin\Debug\3 Talker Tester.exe
+C:\Users\gacla\Documents\C#\Head-First\3 Talker Tester\3 Talker Tester\bin\Debug\3 Talker Tester.pdb
+C:\Users\gacla\Documents\C#\Head-First\3 Talker Tester\3 Talker Tester\obj\Debug\3 Talker Tester.csproj.AssemblyReference.cache
+C:\Users\gacla\Documents\C#\Head-First\3 Talker Tester\3 Talker Tester\obj\Debug\3 Talker Tester.csproj.SuggestedBindingRedirects.cache
+C:\Users\gacla\Documents\C#\Head-First\3 Talker Tester\3 Talker Tester\obj\Debug\_3_Talker_Tester.Properties.Resources.resources
+C:\Users\gacla\Documents\C#\Head-First\3 Talker Tester\3 Talker Tester\obj\Debug\3 Talker Tester.csproj.GenerateResource.cache
+C:\Users\gacla\Documents\C#\Head-First\3 Talker Tester\3 Talker Tester\obj\Debug\3 Talker Tester.csproj.CoreCompileInputs.cache
+C:\Users\gacla\Documents\C#\Head-First\3 Talker Tester\3 Talker Tester\obj\Debug\3 Talker Tester.exe
+C:\Users\gacla\Documents\C#\Head-First\3 Talker Tester\3 Talker Tester\obj\Debug\3 Talker Tester.pdb
+C:\Users\gacla\Documents\C#\Head-First\3 Talker Tester\3 Talker Tester\obj\Debug\_3_Talker_Tester.Form1.resources
