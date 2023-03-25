@@ -119,6 +119,7 @@
             this.Controls.Add(this.numericUpDown1);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.button1);
+            this.MaximizeBox = false;
             this.Name = "Form1";
             this.Text = "Talker Tester";
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();

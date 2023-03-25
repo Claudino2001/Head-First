@@ -1,0 +1,11 @@
+C:\Users\gacla\Documents\C#\Head-First\3 Projeto Joe e Bob\3 Projeto Joe e Bob\bin\Debug\3 Projeto Joe e Bob.exe.config
+C:\Users\gacla\Documents\C#\Head-First\3 Projeto Joe e Bob\3 Projeto Joe e Bob\bin\Debug\3 Projeto Joe e Bob.exe
+C:\Users\gacla\Documents\C#\Head-First\3 Projeto Joe e Bob\3 Projeto Joe e Bob\bin\Debug\3 Projeto Joe e Bob.pdb
+C:\Users\gacla\Documents\C#\Head-First\3 Projeto Joe e Bob\3 Projeto Joe e Bob\obj\Debug\3 Projeto Joe e Bob.csproj.AssemblyReference.cache
+C:\Users\gacla\Documents\C#\Head-First\3 Projeto Joe e Bob\3 Projeto Joe e Bob\obj\Debug\3 Projeto Joe e Bob.csproj.SuggestedBindingRedirects.cache
+C:\Users\gacla\Documents\C#\Head-First\3 Projeto Joe e Bob\3 Projeto Joe e Bob\obj\Debug\_3_Projeto_Joe_e_Bob.Form1.resources
+C:\Users\gacla\Documents\C#\Head-First\3 Projeto Joe e Bob\3 Projeto Joe e Bob\obj\Debug\_3_Projeto_Joe_e_Bob.Properties.Resources.resources
+C:\Users\gacla\Documents\C#\Head-First\3 Projeto Joe e Bob\3 Projeto Joe e Bob\obj\Debug\3 Projeto Joe e Bob.csproj.GenerateResource.cache
+C:\Users\gacla\Documents\C#\Head-First\3 Projeto Joe e Bob\3 Projeto Joe e Bob\obj\Debug\3 Projeto Joe e Bob.csproj.CoreCompileInputs.cache
+C:\Users\gacla\Documents\C#\Head-First\3 Projeto Joe e Bob\3 Projeto Joe e Bob\obj\Debug\3 Projeto Joe e Bob.exe
+C:\Users\gacla\Documents\C#\Head-First\3 Projeto Joe e Bob\3 Projeto Joe e Bob\obj\Debug\3 Projeto Joe e Bob.pdb
