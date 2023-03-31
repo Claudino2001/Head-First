@@ -1,0 +1,11 @@
+C:\Users\gacla\Documents\C#\Head-First\4 Sloppy Joe's\4 Sloppy Joe's\obj\Debug\4 Sloppy Joe's.csproj.AssemblyReference.cache
+C:\Users\gacla\Documents\C#\Head-First\4 Sloppy Joe's\4 Sloppy Joe's\obj\Debug\4 Sloppy Joe's.csproj.SuggestedBindingRedirects.cache
+C:\Users\gacla\Documents\C#\Head-First\4 Sloppy Joe's\4 Sloppy Joe's\obj\Debug\_4_Sloppy_Joe_s.Form1.resources
+C:\Users\gacla\Documents\C#\Head-First\4 Sloppy Joe's\4 Sloppy Joe's\obj\Debug\_4_Sloppy_Joe_s.Properties.Resources.resources
+C:\Users\gacla\Documents\C#\Head-First\4 Sloppy Joe's\4 Sloppy Joe's\obj\Debug\4 Sloppy Joe's.csproj.GenerateResource.cache
+C:\Users\gacla\Documents\C#\Head-First\4 Sloppy Joe's\4 Sloppy Joe's\obj\Debug\4 Sloppy Joe's.csproj.CoreCompileInputs.cache
+C:\Users\gacla\Documents\C#\Head-First\4 Sloppy Joe's\4 Sloppy Joe's\bin\Debug\4 Sloppy Joe's.exe.config
+C:\Users\gacla\Documents\C#\Head-First\4 Sloppy Joe's\4 Sloppy Joe's\bin\Debug\4 Sloppy Joe's.exe
+C:\Users\gacla\Documents\C#\Head-First\4 Sloppy Joe's\4 Sloppy Joe's\bin\Debug\4 Sloppy Joe's.pdb
+C:\Users\gacla\Documents\C#\Head-First\4 Sloppy Joe's\4 Sloppy Joe's\obj\Debug\4 Sloppy Joe's.exe
+C:\Users\gacla\Documents\C#\Head-First\4 Sloppy Joe's\4 Sloppy Joe's\obj\Debug\4 Sloppy Joe's.pdb
