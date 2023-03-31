@@ -1,0 +1,11 @@
+C:\Users\Gabriel\Documents\Programas\Head First C#\4 Calculadora de Reembolso\4 Calculadora de Reembolso\bin\Debug\4 Calculadora de Reembolso.exe.config
+C:\Users\Gabriel\Documents\Programas\Head First C#\4 Calculadora de Reembolso\4 Calculadora de Reembolso\bin\Debug\4 Calculadora de Reembolso.exe
+C:\Users\Gabriel\Documents\Programas\Head First C#\4 Calculadora de Reembolso\4 Calculadora de Reembolso\bin\Debug\4 Calculadora de Reembolso.pdb
+C:\Users\Gabriel\Documents\Programas\Head First C#\4 Calculadora de Reembolso\4 Calculadora de Reembolso\obj\Debug\4 Calculadora de Reembolso.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\Programas\Head First C#\4 Calculadora de Reembolso\4 Calculadora de Reembolso\obj\Debug\4 Calculadora de Reembolso.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriel\Documents\Programas\Head First C#\4 Calculadora de Reembolso\4 Calculadora de Reembolso\obj\Debug\_4_Calculadora_de_Reembolso.Form1.resources
+C:\Users\Gabriel\Documents\Programas\Head First C#\4 Calculadora de Reembolso\4 Calculadora de Reembolso\obj\Debug\_4_Calculadora_de_Reembolso.Properties.Resources.resources
+C:\Users\Gabriel\Documents\Programas\Head First C#\4 Calculadora de Reembolso\4 Calculadora de Reembolso\obj\Debug\4 Calculadora de Reembolso.csproj.GenerateResource.cache
+C:\Users\Gabriel\Documents\Programas\Head First C#\4 Calculadora de Reembolso\4 Calculadora de Reembolso\obj\Debug\4 Calculadora de Reembolso.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Programas\Head First C#\4 Calculadora de Reembolso\4 Calculadora de Reembolso\obj\Debug\4 Calculadora de Reembolso.exe
+C:\Users\Gabriel\Documents\Programas\Head First C#\4 Calculadora de Reembolso\4 Calculadora de Reembolso\obj\Debug\4 Calculadora de Reembolso.pdb

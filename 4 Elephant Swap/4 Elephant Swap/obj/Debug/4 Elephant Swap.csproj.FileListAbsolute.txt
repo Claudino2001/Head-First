@@ -1,0 +1,11 @@
+C:\Users\Gabriel\Documents\Programas\Head First C#\4 Elephant Swap\4 Elephant Swap\bin\Debug\4 Elephant Swap.exe.config
+C:\Users\Gabriel\Documents\Programas\Head First C#\4 Elephant Swap\4 Elephant Swap\bin\Debug\4 Elephant Swap.exe
+C:\Users\Gabriel\Documents\Programas\Head First C#\4 Elephant Swap\4 Elephant Swap\bin\Debug\4 Elephant Swap.pdb
+C:\Users\Gabriel\Documents\Programas\Head First C#\4 Elephant Swap\4 Elephant Swap\obj\Debug\4 Elephant Swap.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\Programas\Head First C#\4 Elephant Swap\4 Elephant Swap\obj\Debug\4 Elephant Swap.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriel\Documents\Programas\Head First C#\4 Elephant Swap\4 Elephant Swap\obj\Debug\_4_Elephant_Swap.Form1.resources
+C:\Users\Gabriel\Documents\Programas\Head First C#\4 Elephant Swap\4 Elephant Swap\obj\Debug\_4_Elephant_Swap.Properties.Resources.resources
+C:\Users\Gabriel\Documents\Programas\Head First C#\4 Elephant Swap\4 Elephant Swap\obj\Debug\4 Elephant Swap.csproj.GenerateResource.cache
+C:\Users\Gabriel\Documents\Programas\Head First C#\4 Elephant Swap\4 Elephant Swap\obj\Debug\4 Elephant Swap.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Programas\Head First C#\4 Elephant Swap\4 Elephant Swap\obj\Debug\4 Elephant Swap.exe
+C:\Users\Gabriel\Documents\Programas\Head First C#\4 Elephant Swap\4 Elephant Swap\obj\Debug\4 Elephant Swap.pdb
