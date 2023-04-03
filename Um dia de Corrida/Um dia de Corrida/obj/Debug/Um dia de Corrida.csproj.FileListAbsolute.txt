@@ -1,0 +1,11 @@
+C:\Users\Gabriel\Documents\GitHub\Head-First\Um dia de Corrida\Um dia de Corrida\bin\Debug\Um dia de Corrida.exe.config
+C:\Users\Gabriel\Documents\GitHub\Head-First\Um dia de Corrida\Um dia de Corrida\bin\Debug\Um dia de Corrida.exe
+C:\Users\Gabriel\Documents\GitHub\Head-First\Um dia de Corrida\Um dia de Corrida\bin\Debug\Um dia de Corrida.pdb
+C:\Users\Gabriel\Documents\GitHub\Head-First\Um dia de Corrida\Um dia de Corrida\obj\Debug\Um dia de Corrida.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\GitHub\Head-First\Um dia de Corrida\Um dia de Corrida\obj\Debug\Um dia de Corrida.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriel\Documents\GitHub\Head-First\Um dia de Corrida\Um dia de Corrida\obj\Debug\Um_dia_de_Corrida.Form1.resources
+C:\Users\Gabriel\Documents\GitHub\Head-First\Um dia de Corrida\Um dia de Corrida\obj\Debug\Um_dia_de_Corrida.Properties.Resources.resources
+C:\Users\Gabriel\Documents\GitHub\Head-First\Um dia de Corrida\Um dia de Corrida\obj\Debug\Um dia de Corrida.csproj.GenerateResource.cache
+C:\Users\Gabriel\Documents\GitHub\Head-First\Um dia de Corrida\Um dia de Corrida\obj\Debug\Um dia de Corrida.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitHub\Head-First\Um dia de Corrida\Um dia de Corrida\obj\Debug\Um dia de Corrida.exe
+C:\Users\Gabriel\Documents\GitHub\Head-First\Um dia de Corrida\Um dia de Corrida\obj\Debug\Um dia de Corrida.pdb
